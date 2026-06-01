@@ -1,0 +1,114 @@
+# =========================
+# CORE LANGCHAIN + OPENAI
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# =========================
+# OPENAI SDK
+# =========================
+openai
+
+# =========================
+# TAVILY SEARCH TOOL
+# =========================
+tavily-python
+
+# =========================
+# WEB SCRAPING / HTML PARSING
+# =========================
+beautifulsoup4
+lxml
+html5lib
+requests
+aiohttp
+
+# =========================
+# LCEL / RUNNABLE SUPPORT
+# =========================
+pydantic
+python-dotenv
+typing-extensions
+
+# =========================
+# ASYNC + UTILITIES
+# =========================
+asyncio
+tenacity
+
+# =========================
+# DATA PROCESSING
+# =========================
+pandas
+numpy
+
+# =========================
+# TOKENIZATION / TEXT SPLITTING
+# =========================
+tiktoken
+
+# =========================
+# VECTOR DATABASE (OPTIONAL)
+# =========================
+faiss-cpu
+chromadb
+
+# =========================
+# EMBEDDINGS
+# =========================
+sentence-transformers
+
+# =========================
+# LOGGING / DEBUGGING
+# =========================
+rich
+loguru
+
+# =========================
+# API SERVER (OPTIONAL)
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# JSON / OUTPUT PARSING
+# =========================
+orjson
+
+# =========================
+# ENVIRONMENT & CONFIG
+# =========================
+PyYAML
+
+# =========================
+# TESTING
+# =========================
+pytest
+
+# =========================
+# JUPYTER (OPTIONAL)
+# =========================
+jupyter
+
+# =========================
+# REACT AGENT SUPPORT
+# =========================
+langchainhub
+
+# =========================
+# BROWSER USER AGENT SUPPORT
+# =========================
+fake-useragent
+
+# =========================
+# RETRY + RATE LIMIT HANDLING
+# =========================
+backoff
+
+# =========================
+# OPTIONAL STREAMING / SSE
+# =========================
+sse-starlette
